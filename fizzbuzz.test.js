@@ -9,30 +9,30 @@ test('multiple by 3 should print Fizz', () => {
 
 
 })
-test('multiple by 5 should print Buzz', () => {
+// test('multiple by 5 should print Buzz', () => {
 
-    let number = 5
+//     let number = 5
 
-    let result = fizzbuzz(number)
+//     let result = fizzbuzz(number)
 
-    expect(result).toEqual("Buzz");
+//     expect(result).toEqual("Buzz");
 
-})
-test('multiple by 15 should print FizzBuzz', () => {
+// })
+// test('multiple by 15 should print FizzBuzz', () => {
 
-    let number = 15
+//     let number = 15
 
-    let result = fizzbuzz(number)
+//     let result = fizzbuzz(number)
 
-    expect(result).toEqual("FizzBuzz");
+//     expect(result).toEqual("FizzBuzz");
 
-})
-test('multiple by 2 should print 2', () => {
+// })
+// test('multiple by 2 should print 2', () => {
 
-    let number = 2
+//     let number = 2
 
-    let result = fizzbuzz(number)
+//     let result = fizzbuzz(number)
 
-    expect(result).toEqual(2);
+//     expect(result).toEqual(2);
 
-});
+// });
