@@ -1,18 +1,19 @@
 {
-    "name": "newlab",
-    "version": "1.0.0",
-    "description": "",
-    "main": "sum.js",
-    "dependencies": {
-      "codecov": "^3.8.1",
-      "jest": "^26.6.1"
-    },
-    "devDependencies": {},
-    "scripts": {
-      "test": "jest --coverage && codecov",
-      "codecov": "codecov"
-    },
-    "author": "",
-    "license": "ISC"
-  }
-  
+  "name": "newlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "codecov": "^3.8.1",
+    "jest": "^26.6.1",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage && codecov",
+    "codecov": "codecov"
+  },
+  "author": "",
+  "license": "ISC"
+}
