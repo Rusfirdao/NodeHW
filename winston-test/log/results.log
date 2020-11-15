@@ -1,0 +1,10 @@
+2020-11-15 21:34:43 error: error message
+2020-11-15 21:34:43 warn: warn message
+2020-11-15 21:34:43 info: info message
+2020-11-15 21:34:43 verbose: verbose message
+2020-11-15 21:34:43 debug: debug message
+{"message":"error message","level":"error","timestamp":"2020-11-15 21:36:41"}
+{"message":"warn message","level":"warn","timestamp":"2020-11-15 21:36:41"}
+{"message":"info message","level":"info","timestamp":"2020-11-15 21:36:41"}
+{"message":"verbose message","level":"verbose","timestamp":"2020-11-15 21:36:41"}
+{"message":"debug message","level":"debug","timestamp":"2020-11-15 21:36:41"}
