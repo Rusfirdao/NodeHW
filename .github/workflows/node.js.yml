@@ -27,4 +27,4 @@ jobs:
     - name: Codecov
       uses: codecov/codecov-action@v1.0.14
       with:
-        token: 7b209d4c-0598-4cb4-b4eb-229d93f9bcf3
+        token: 7b209d4c-0598-4cb4-b4eb-229d93f9bcf3 # optional
